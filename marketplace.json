@@ -1,0 +1,14 @@
+{
+  "name": "sergio-claude-skills",
+  "description": "A curated collection of Claude Code skills for project management and team workflows.",
+  "owner": {
+    "name": "sergiodsalles"
+  },
+  "plugins": [
+    {
+      "name": "project-pulse",
+      "source": "./plugins/project-pulse",
+      "description": "Project management dashboard aggregating Jira, Slack, and GitHub data into actionable summaries. Includes /start-my-day, /end-my-day, /team-status, /blockers, and /weekly-recap commands."
+    }
+  ]
+}
