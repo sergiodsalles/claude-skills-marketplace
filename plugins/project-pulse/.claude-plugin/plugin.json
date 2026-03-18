@@ -2,10 +2,8 @@
   "name": "project-pulse",
   "version": "1.0.0",
   "description": "Project management dashboard that aggregates Slack, Jira, and GitHub/git data into actionable summaries for managers.",
-  "author": "sergiodsalles",
-  "keywords": ["project-management", "jira", "slack", "github", "standup", "status"],
-  "requirements": {
-    "mcpServers": ["atlassian", "slack"],
-    "tools": ["gh"]
-  }
+  "author": {
+    "name": "sergiodsalles"
+  },
+  "keywords": ["project-management", "jira", "slack", "github", "standup", "status"]
 }
