@@ -9,6 +9,11 @@
       "name": "project-pulse",
       "source": "./plugins/project-pulse",
       "description": "Project management dashboard aggregating Jira, Slack, and GitHub data into actionable summaries. Includes /start-my-day, /end-my-day, /team-status, /blockers, and /weekly-recap commands."
+    },
+    {
+      "name": "dev-lifecycle",
+      "source": "./plugins/dev-lifecycle",
+      "description": "Full development workflow from Jira ticket to closure — spec, branch, review, PR, docs, and status reports."
     }
   ]
 }

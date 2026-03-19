@@ -1,0 +1,12 @@
+{
+  "name": "dev-lifecycle",
+  "version": "1.0.0",
+  "description": "Full development workflow integrated with Jira, Git, and GitHub — from ticket creation through documentation and closure.",
+  "author": {
+    "name": "sergiodsalles"
+  },
+  "keywords": [
+    "jira", "workflow", "tickets", "pull-request", "code-review",
+    "spec", "documentation", "status-report", "git", "github"
+  ]
+}
